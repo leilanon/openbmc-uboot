@@ -1,0 +1,6 @@
+DELTA OPENBMC BOARDS
+M:	Leila Lin <leila.lin@deltaww.com>
+S:	Maintained
+F:	board/delta/
+F:	include/configs/agc032a.h
+F:	configs/agc032a_defconfig
